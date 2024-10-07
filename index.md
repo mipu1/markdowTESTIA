@@ -47,6 +47,8 @@ Tämä tässä on kissa
 
 :fire: :fire: :fire: :fire: :fire: :fire:   
 
+`emojit näkyy ainoastaan Githubin tiedosto näkymässä, ei Github Pagesissa`
+
 [tästä takaisin ylös](#Erikoiskohta)
 
 
