@@ -35,12 +35,13 @@ Tämä tässä on kissa
 ***
 
 ### Täällä lisää tärkeää tekstiä.
-[ ] Olet lukenut kaikki  
-[ ] Olet ymmärtänyt kaikki  
+- [ ] Olet lukenut kaikki
+- [ ] Olet ymmärtänyt kaikki
 
 ***
 > [!IMPORTANT]  
 > :+1: jepulis, hienosti tehti :smiley:  
+:fire: :fire: :fire: :fire: :fire: :fire: 
 
 [tästä takaisin ylös](#Erikoiskohta)
 
