@@ -1,8 +1,3 @@
----
-layout: default
-title: Etusivu
----
-
 # **Sivu Markdownilla**
 
 Terveppä terve   
