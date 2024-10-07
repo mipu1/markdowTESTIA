@@ -1,9 +1,14 @@
+---
+layout: default
+title: Etusivu
+---
+
 # **Sivu Markdownilla**
 
 Terveppä terve   
 <a name="Erikoiskohta"></a>
 Jotain tekstiä johon voi tulla takaisin linkin kautta.  
-Jos lienee tämä toimii.
+Jos tämä toimii.
 
 ## *Luetteloa*
 
@@ -35,13 +40,17 @@ Tämä tässä on kissa
 ***
 
 ### Täällä lisää tärkeää tekstiä.
-- [ ] Olet lukenut kaikki
-- [ ] Olet ymmärtänyt kaikki
+[ ] Olet lukenut kaikki  
+[ ] Olet ymmärtänyt kaikki  
+`yllä olevat listan kohteet eivät ole Markdownilla klikattavia` 
 
 ***
 > [!IMPORTANT]  
-> :+1: jepulis, hienosti tehti :smiley:  
-:fire: :fire: :fire: :fire: :fire: :fire: 
+> :+1: jepulis, hienosti tehty :smiley:  
+
+***
+
+:fire: :fire: :fire: :fire: :fire: :fire:   
 
 [tästä takaisin ylös](#Erikoiskohta)
 
